@@ -1,4 +1,3 @@
-~~~
-npx postcss src/styles.scss -o test.scss
-~~~
-עובד
+https://github.com/angular/angular-cli/blob/main/packages/angular/build/src/utils/postcss-configuration.ts#L20
+
+נבירה בקוד המקור, במספר מקומות הובילה למסקנא כי פורמט הקובץ הנכון הוא זה שפותר את הבעיה...
